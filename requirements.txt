@@ -1,0 +1,49 @@
+# Processamento de documentos
+python-docx
+PyMuPDF
+pytesseract
+Pillow
+
+# APIs de IA
+google-generativeai
+groq
+openai
+
+# Processamento de linguagem natural
+spacy
+pt_core_news_sm
+nltk
+gensim
+textblob
+
+# Machine Learning e análise de dados
+scikit-learn
+pandas
+numpy
+scipy
+
+# Visualização e gráficos
+matplotlib
+seaborn
+wordcloud
+plotly
+networkx
+
+# Análise estatística avançada
+statsmodels
+
+# Utilitários
+python-dotenv
+unidecode
+requests
+tqdm
+
+# Análise de texto avançada
+transformers
+sentence-transformers
+
+# Processamento paralelo
+joblib
+
+# Formatação de relatórios
+tabulate

@@ -2,7 +2,7 @@
 
 [Example Clean Text Output](https://raw.githubusercontent.com/Takk8IS/TheArchivistLens/refs/heads/main/output/textos_limpos/Anoitecidas%20WOR.txt)
 
-[Example Report Output](https://raw.githubusercontent.com/Takk8IS/TheArchivistLens/refs/heads/main/output/relatorios/relatorio_Anoitecidas%20WOR.md)
+[Example Report Output](https://github.com/Takk8IS/TheArchivistLens/blob/main/output/relatorios/relatorio_Anoitecidas%20WOR.md)
 
 ## Overview
 
